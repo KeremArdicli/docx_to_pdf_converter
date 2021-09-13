@@ -10,12 +10,14 @@ You can further develop and enhance them as per your desire and like.
 
 ## how to install
 
-Make sure have phyton installed.
+Make sure you have phyton installed.
 
 ### Clone the repo
 
 > git clone https://github.com/KeremArdicli/docx_to_pdf_converter.git
 > cd docx_to_pdf_converter
+
+### Install the required libraries
 
 > pip install docx2pdf
 > pip install os
@@ -31,4 +33,4 @@ Open shell or cmd exe in the folder and run
 >python app.py
 
 ## contact
-/keremardicli@gmail.com
+mailto:keremardicli@gmail.com
