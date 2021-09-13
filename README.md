@@ -1,4 +1,4 @@
-# docx_to_pdf_converter
+# Docx to Pdf Converter
 ## Free, fast, user friendly docx to pdf converter with phyton.
 
 When you are in dire need of batch conversion of docx files into pdf files,
@@ -11,6 +11,7 @@ You can further develop and enhance them as per your desire and like.
 ## how to install
 
 Make sure you have phyton installed.
+Install the required libraries.
 
 ### Clone the repo
 
